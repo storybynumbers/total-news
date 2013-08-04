@@ -11,4 +11,4 @@ The feed below is [hosted on Github](https://github.com/aquariumtap/total-news/b
  - Articles
    - 5 myths about *mobile web performance*, [@mmullany]()’s extensive [post](http://www.sencha.com/blog/5-myths-about-mobile-web-performance/).
  - Vet
-   - The *Amsterdam Dance Event* has a nice filtering. The program shows all by default. [Clicking dates or venues](http://www.amsterdam-dance-event.nl/program/festival/events/) will quickly filter the results; a second click will broadens the filter.
+   - The *Amsterdam Dance Event* has nice filtering. All events are listed by default. [Clicking dates or venues](http://www.amsterdam-dance-event.nl/program/festival/events/) will filters the results; a second click will broaden the filter.
