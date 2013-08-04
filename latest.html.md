@@ -1,6 +1,11 @@
-The feed below is [hosted on Github](https://github.com/aquariumtap/total-news/blob/master/latest.html.md) and [you can edit it just like a wiki](http://prose.io/#aquariumtap/total-news/edit/master/latest.html.md) if you have an account there. It's free.
+The feed below is [hosted on Github](https://github.com/aquariumtap/total-news/blob/master/latest.html.md) and [you can edit it just like a wiki](http://prose.io/#aquariumtap/total-news/edit/master/latest.html.md) if you have an account there. It's free. 
+
+## August 1, 2013
+
+- Total
+  - Testing
  
-## 2 August 2013
+## August 2, 2013
  
  - Total
    - Vincent Kranendonk has started at Total Active Media! He is a frontend developer with a focus on *Wordpress*.
