@@ -3,7 +3,7 @@ The feed below is [hosted on Github](https://github.com/aquariumtap/total-news/b
 ## 2 August 2013
  
  - Total
-   - Vincent Kranendonk has started at Total Active Media!
+   - Vincent Kranendonk has started at Total Active Media! He is a frontend developer with a focus on *Wordpress*.
  - CMS
    - This site was built with [DocPad](http://docpad.org/), a *static site generator*.
    - All content is stored in simple *Markdown* files. Updating the content will trigger the site to regenerate a new static version.
