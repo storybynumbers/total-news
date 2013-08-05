@@ -1,6 +1,13 @@
 The feed below is [hosted on Github](https://github.com/aquariumtap/total-news/blob/master/latest.html.md) and [you can edit it just like a wiki](http://prose.io/#aquariumtap/total-news/edit/master/latest.html.md) if you have an account there. It's free. 
+
+## 2 August, 2013
+
+- Articles
+  - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js/) is available on GitHub. Don't like it? Fork off and we'll discuss your revisions.
+- Stoned
+  - The pre-cursor to the modern transistor was crystal. The precursor to freedom was rock. A workshop in Montreal is making crude [amplifiers using rocks](http://ryanjordan.nnnnn.org.uk/doku.php?id=derelict_electronics).
  
-## August 2, 2013
+## 1 August, 2013
  
  - Total
    - Vincent Kranendonk has started at Total Active Media! He is a frontend developer with a focus on *Wordpress*.
